@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 
+# Temporarios do emacs
+*~
+\#*
+
 # C extensions
 *.so
 
